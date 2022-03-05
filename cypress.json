@@ -1,0 +1,6 @@
+{
+  "integrationFolder": "cypress/e2e",
+  "baseUrl": "https://www.kabum.com.br",
+  "viewportWidth": 1366,
+  "viewportHeight": 720
+}
