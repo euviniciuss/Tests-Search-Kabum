@@ -24,8 +24,16 @@ O repositório contém alguns testes e2e feitos com **[Cypress](https://www.cypr
   $ yarn cy:open
   ```
   - Após executar o comando ele deverá abrir está tela:
+  <p align="center">
+    <img src="/.github/Tests.png" width="80%" alt="Testes">
+  </p>
+  
   - Clique no Search.js
+  
   - Logo após isso ele executará os testes automicamente:
+  <p align="center">
+    <img src="/.github/TestsKabum.png" width="80%" alt="Testes Kabum">
+  </p>
 
 ## 📄Sobre o projeto
 Este é um trabalho feito para a disciplina Testagem de Software presente no curso de Engenharia de Software no centro universitário UNDB.
