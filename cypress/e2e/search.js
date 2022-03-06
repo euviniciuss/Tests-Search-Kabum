@@ -1,7 +1,12 @@
 /// <reference types="cypress" />
 
 /* 
-  Estes testes foram feitos por Marcus Vinicius Silva Costa, aluno de Engenharia de Software na UNDB!
+  - Estes testes foram feitos utilizando Cypress!
+
+  - Se você quer rodar estes testes no ambiente do cypress, 
+  vá até este repositório: https://github.com/euviniciuss/Tests-Search-Kabum
+  
+  - Estes testes foram feitos por Marcus Vinicius Silva Costa, aluno de Engenharia de Software na UNDB!
 */
 
 
